@@ -1,3 +1,5 @@
+# Note Apr 5 2025: There might be a `refactor` branch that needs to be refactored. But this project is probably dead
+
 # Hangeul.soy
 Hangeul syllable recognition game, made with React.js, Webpack, Express and love.
 
